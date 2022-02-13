@@ -1,0 +1,63 @@
+.btn-back {
+  color: orange;
+  background-color: black;
+  font-size: 30px;
+  text-decoration: none;
+  display: block;
+  border: 2px solid orange;
+  border-radius: 20px;
+  padding: 6px;
+  width: 120px;
+  cursor: pointer;
+  text-decoration: none;
+  color: orange;
+  text-align: center;
+  margin: 20px;
+}
+
+.btn-back:hover {
+  background-color: orange;
+  color: white;
+}
+.back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img-route {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  height: 800px;
+}
+
+.Movie-name {
+  text-align: center;
+  font-size: 40px;
+  font-family: monospace;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  color: orange;
+}
+
+iframe {
+  width: 50%;
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.desc2 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  font-family: initial;
+  color: #efefd0;
+  word-spacing: 10px;
+}
+.date {
+  text-align: center;
+  color: orange;
+  margin-bottom: 50px;
+}
